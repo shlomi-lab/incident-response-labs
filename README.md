@@ -45,6 +45,8 @@ Investigation of a ransomware intrusion using network traffic analysis.
 - SHA1 identification
 - LockBit ransomware investigation
 
+📄 Full report: [`reports/CySourceCorp-Scenario.pdf`](reports/CySourceCorp-Scenario.pdf)
+
 ---
 
 ### 🔹 Njrat Malware Scenario
@@ -59,6 +61,8 @@ Analysis of a NjRAT infection.
 - Registry modifications
 - Incident mitigation
 
+📄 Full report: [`reports/Njrat-Malware-Scenario.pdf`](reports/Njrat-Malware-Scenario.pdf)
+
 ---
 
 ### 🔹 Registry Scenario
@@ -71,6 +75,8 @@ Windows Registry forensic investigation.
 - Timeline analysis
 - Remote address identification
 - Registry ASEPs
+
+📄 Full report: [`reports/Registry-Scenario.pdf`](reports/Registry-Scenario.pdf)
 
 ---
 
